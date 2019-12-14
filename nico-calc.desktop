@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=nico-calc
+Exec=/usr/bin/nico-calc
+Icon=blender
+Type=Application
+Categories=nico_utils
+Name[en_US]=nico-calc
